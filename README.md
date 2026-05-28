@@ -1,17 +1,11 @@
-# TP Scrum - GitHub y Jira
+# TPIntegrador OE
 
 ## Integrantes
 
-* TU NOMBRE
-* NOMBRE COMPAÑERO
-
-## Metodología
-
-Scrum
-
-## Sprint
-
-Sprint 1
+* Lucia Boyer Comision 16
+  Roles: Desarrollador Tecnico y QA
+* Nicola Garda Comision 16
+  Roles: Lider Organizador y Desarrollador Tecnico
 
 ## Escenario
 
