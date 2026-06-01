@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-* TU NOMBRE
-* NOMBRE COMPAÑERO
+* Nicola Garda Comision 16
+* Lucia Boyer Comision 16
 
 ## Metodología
 
